@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaesarsCipher_Server", "CaesarsCipher_Server\CaesarsCipher_Server.vcxproj", "{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cypher", "Cypher\Cypher.vcxproj", "{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CaesarsCipher_Client", "CaesarsCipher_Client\CaesarsCipher_Client.vcxproj", "{9029838B-4282-4B01-B125-45CD10018F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Debug|x64.ActiveCfg = Debug|x64
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Debug|x64.Build.0 = Debug|x64
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Debug|x86.Build.0 = Debug|Win32
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Release|x64.ActiveCfg = Release|x64
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Release|x64.Build.0 = Release|x64
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Release|x86.ActiveCfg = Release|Win32
+		{3F740E07-7F18-4E8C-AF20-AD35AF4C4DE2}.Release|x86.Build.0 = Release|Win32
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Debug|x64.ActiveCfg = Debug|x64
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Debug|x64.Build.0 = Debug|x64
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Debug|x86.ActiveCfg = Debug|Win32
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Debug|x86.Build.0 = Debug|Win32
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Release|x64.ActiveCfg = Release|x64
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Release|x64.Build.0 = Release|x64
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Release|x86.ActiveCfg = Release|Win32
+		{85F4D163-CC0B-4DDB-9F5C-3137A4E7C876}.Release|x86.Build.0 = Release|Win32
+		{9029838B-4282-4B01-B125-45CD10018F08}.Debug|x64.ActiveCfg = Debug|x64
+		{9029838B-4282-4B01-B125-45CD10018F08}.Debug|x64.Build.0 = Debug|x64
+		{9029838B-4282-4B01-B125-45CD10018F08}.Debug|x86.ActiveCfg = Debug|Win32
+		{9029838B-4282-4B01-B125-45CD10018F08}.Debug|x86.Build.0 = Debug|Win32
+		{9029838B-4282-4B01-B125-45CD10018F08}.Release|x64.ActiveCfg = Release|x64
+		{9029838B-4282-4B01-B125-45CD10018F08}.Release|x64.Build.0 = Release|x64
+		{9029838B-4282-4B01-B125-45CD10018F08}.Release|x86.ActiveCfg = Release|Win32
+		{9029838B-4282-4B01-B125-45CD10018F08}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E8E240-DC3A-42E3-A1B2-C1429EED64A6}
+	EndGlobalSection
+EndGlobal

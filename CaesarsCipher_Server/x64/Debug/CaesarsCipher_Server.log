@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 5\CaesarsCipher\CaesarsCipher_Server\Source.cpp(112,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 5\CaesarsCipher\CaesarsCipher_Server\Source.cpp(128,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CaesarsCipher_Server.vcxproj -> C:\Users\Raluca\Desktop\_\sem 2\RC\laborator\Tema 5\CaesarsCipher\x64\Debug\CaesarsCipher_Server.exe
